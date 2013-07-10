@@ -34,7 +34,7 @@
 	<key>MasterSheets</key>
 	<array/>
 	<key>ModificationDate</key>
-	<string>2013-07-10 21:18:43 +0000</string>
+	<string>2013-07-10 21:20:53 +0000</string>
 	<key>Modifier</key>
 	<string>Beth Scott</string>
 	<key>NotesVisible</key>
@@ -2749,7 +2749,7 @@ Sound FX}</string>
 					<real>19</real>
 					<key>Points</key>
 					<array>
-						<string>{349.38986711830063, 192.5880540669632}</string>
+						<string>{349, 192.5880540669632}</string>
 						<string>{348.75759758110104, 248.30336761474609}</string>
 					</array>
 					<key>Style</key>
@@ -4987,10 +4987,10 @@ Sound FX}</string>
 					<key>Magnets</key>
 					<array>
 						<string>{-0.42163697454145743, -1.2649110555648804}</string>
-						<string>{0.4216371064819644, -1.2649110555648804}</string>
+						<string>{0, -0.49999999999999956}</string>
 						<string>{1.2649110555648815, -0.4216368426009538}</string>
 						<string>{1.2649110555648815, 0.42163714417925036}</string>
-						<string>{0.42163699339010319, 1.2649110555648804}</string>
+						<string>{0.16207693485539743, 0.50000000000000044}</string>
 						<string>{-0.42163733062650866, 1.2649109363555908}</string>
 						<string>{-1.2649110555648804, 0.42163676720637966}</string>
 						<string>{-1.2649109363555908, -0.4216371798373757}</string>
@@ -7672,7 +7672,7 @@ Sound FX}</string>
 			<array>
 				<string>Overview</string>
 				<real>1</real>
-				<real>1.9600000381469727</real>
+				<real>2.5699999332427979</real>
 			</array>
 			<array>
 				<string>Notes</string>
