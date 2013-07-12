@@ -1,0 +1,1 @@
+This was some pictures we took of a somewhat sad but intreprid VR in the mission.  It is *not* the exact model that we are using and is somewhat larger than the one we're going to rent, but it is a fairly similar model from the same manufacturer.
