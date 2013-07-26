@@ -5,7 +5,7 @@
 	<key>ApplicationVersion</key>
 	<array>
 		<string>com.omnigroup.OmniGraffle.MacAppStore</string>
-		<string>139.17</string>
+		<string>139.18</string>
 	</array>
 	<key>CreationDate</key>
 	<string>2013-07-09 03:41:40 +0000</string>
@@ -34,9 +34,9 @@
 	<key>MasterSheets</key>
 	<array/>
 	<key>ModificationDate</key>
-	<string>2013-07-12 15:47:28 +0000</string>
+	<string>2013-07-26 04:09:17 +0000</string>
 	<key>Modifier</key>
-	<string>Beth Scott</string>
+	<string>Micah Elizabeth Scott</string>
 	<key>NotesVisible</key>
 	<string>NO</string>
 	<key>OriginVisible</key>
@@ -48,7 +48,7 @@
 		<key>NSBottomMargin</key>
 		<array>
 			<string>float</string>
-			<string>8.48999</string>
+			<string>0</string>
 		</array>
 		<key>NSHorizonalPagination</key>
 		<array>
@@ -58,12 +58,12 @@
 		<key>NSLeftMargin</key>
 		<array>
 			<string>float</string>
-			<string>8.49</string>
+			<string>0</string>
 		</array>
 		<key>NSPaperSize</key>
 		<array>
 			<string>size</string>
-			<string>{612.00000953674316, 792}</string>
+			<string>{612, 792}</string>
 		</array>
 		<key>NSPrintReverseOrientation</key>
 		<array>
@@ -73,12 +73,12 @@
 		<key>NSRightMargin</key>
 		<array>
 			<string>float</string>
-			<string>8.48999</string>
+			<string>0</string>
 		</array>
 		<key>NSTopMargin</key>
 		<array>
 			<string>float</string>
-			<string>8.48999</string>
+			<string>0</string>
 		</array>
 	</dict>
 	<key>ReadOnly</key>
@@ -93,7 +93,7 @@
 			<key>BackgroundGraphic</key>
 			<dict>
 				<key>Bounds</key>
-				<string>{{0, 0}, {775.02001953125, 595.02001953125}}</string>
+				<string>{{0, 0}, {792, 612}}</string>
 				<key>Class</key>
 				<string>SolidGraphic</string>
 				<key>FontInfo</key>
@@ -397,7 +397,7 @@
 {\colortbl;\red255\green255\blue255;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\qc
 
-\f0\fs22 \cf1 8}</string>
+\f0\fs22 \cf1 7}</string>
 						<key>VerticalPad</key>
 						<integer>0</integer>
 					</dict>
@@ -479,7 +479,7 @@
 {\colortbl;\red255\green255\blue255;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\qc
 
-\f0\fs22 \cf1 7}</string>
+\f0\fs22 \cf1 6}</string>
 						<key>VerticalPad</key>
 						<integer>0</integer>
 					</dict>
@@ -561,7 +561,7 @@
 {\colortbl;\red255\green255\blue255;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\qc
 
-\f0\fs22 \cf1 6}</string>
+\f0\fs22 \cf1 5}</string>
 						<key>VerticalPad</key>
 						<integer>0</integer>
 					</dict>
@@ -643,7 +643,7 @@
 {\colortbl;\red255\green255\blue255;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\qc
 
-\f0\fs22 \cf1 5}</string>
+\f0\fs22 \cf1 4}</string>
 						<key>VerticalPad</key>
 						<integer>0</integer>
 					</dict>
@@ -725,7 +725,7 @@
 {\colortbl;\red255\green255\blue255;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\qc
 
-\f0\fs22 \cf1 4}</string>
+\f0\fs22 \cf1 3}</string>
 						<key>VerticalPad</key>
 						<integer>0</integer>
 					</dict>
@@ -736,7 +736,7 @@
 				</dict>
 				<dict>
 					<key>Bounds</key>
-					<string>{{404.14501953125, 149}, {15, 22}}</string>
+					<string>{{160.36752319335938, 224.81283569335938}, {15, 22}}</string>
 					<key>Class</key>
 					<string>ShapedGraphic</string>
 					<key>FontInfo</key>
@@ -756,7 +756,7 @@
 						<real>11</real>
 					</dict>
 					<key>ID</key>
-					<integer>202</integer>
+					<integer>248</integer>
 					<key>Layer</key>
 					<integer>1</integer>
 					<key>Magnets</key>
@@ -808,88 +808,6 @@
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\qc
 
 \f0\fs22 \cf1 2}</string>
-						<key>VerticalPad</key>
-						<integer>0</integer>
-					</dict>
-					<key>TextPlacement</key>
-					<integer>2</integer>
-					<key>VFlip</key>
-					<string>YES</string>
-				</dict>
-				<dict>
-					<key>Bounds</key>
-					<string>{{160.36752319335938, 224.81283569335938}, {15, 22}}</string>
-					<key>Class</key>
-					<string>ShapedGraphic</string>
-					<key>FontInfo</key>
-					<dict>
-						<key>Color</key>
-						<dict>
-							<key>b</key>
-							<string>0.999991</string>
-							<key>g</key>
-							<string>0.999974</string>
-							<key>r</key>
-							<string>1</string>
-						</dict>
-						<key>Font</key>
-						<string>Helvetica</string>
-						<key>Size</key>
-						<real>11</real>
-					</dict>
-					<key>ID</key>
-					<integer>201</integer>
-					<key>Layer</key>
-					<integer>1</integer>
-					<key>Magnets</key>
-					<array>
-						<string>{0, 1}</string>
-						<string>{0, -1}</string>
-						<string>{1, 0}</string>
-						<string>{-1, 0}</string>
-					</array>
-					<key>Shape</key>
-					<string>House</string>
-					<key>Style</key>
-					<dict>
-						<key>fill</key>
-						<dict>
-							<key>Color</key>
-							<dict>
-								<key>b</key>
-								<string>0.0283155</string>
-								<key>g</key>
-								<string>0.00704085</string>
-								<key>r</key>
-								<string>0.65338</string>
-							</dict>
-						</dict>
-						<key>shadow</key>
-						<dict>
-							<key>Color</key>
-							<dict>
-								<key>a</key>
-								<string>0.46</string>
-								<key>b</key>
-								<string>0</string>
-								<key>g</key>
-								<string>0</string>
-								<key>r</key>
-								<string>0</string>
-							</dict>
-							<key>ShadowVector</key>
-							<string>{0, 0}</string>
-						</dict>
-					</dict>
-					<key>Text</key>
-					<dict>
-						<key>Text</key>
-						<string>{\rtf1\ansi\ansicpg1252\cocoartf1187\cocoasubrtf390
-\cocoascreenfonts1{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
-{\colortbl;\red255\green255\blue255;}
-\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\qc
-
-\f0\fs22 \cf1 3}</string>
 						<key>VerticalPad</key>
 						<integer>0</integer>
 					</dict>
@@ -1385,7 +1303,7 @@
 				</dict>
 				<dict>
 					<key>Bounds</key>
-					<string>{{247.53220154870439, 164.00202603304598}, {23, 14}}</string>
+					<string>{{248.55080296887706, 163.23121414476807}, {61, 14}}</string>
 					<key>Class</key>
 					<string>ShapedGraphic</string>
 					<key>FitText</key>
@@ -1405,15 +1323,17 @@
 						<real>12</real>
 					</dict>
 					<key>ID</key>
-					<integer>152</integer>
+					<integer>246</integer>
 					<key>Layer</key>
 					<integer>2</integer>
 					<key>Line</key>
 					<dict>
 						<key>ID</key>
-						<integer>142</integer>
+						<integer>245</integer>
+						<key>Offset</key>
+						<real>0.73591548204421997</real>
 						<key>Position</key>
-						<real>0.18501895666122437</real>
+						<real>0.17638903856277466</real>
 						<key>RotationType</key>
 						<integer>0</integer>
 					</dict>
@@ -1442,7 +1362,7 @@
 {\colortbl;\red255\green255\blue255;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\qc
 
-\f0\fs20 \cf0 USB}</string>
+\f0\fs20 \cf0 Analog Audio}</string>
 						<key>VerticalPad</key>
 						<integer>1</integer>
 					</dict>
@@ -1927,22 +1847,22 @@
 					<key>Head</key>
 					<dict>
 						<key>ID</key>
-						<integer>108</integer>
+						<integer>52</integer>
 					</dict>
 					<key>ID</key>
-					<integer>142</integer>
+					<integer>245</integer>
 					<key>Layer</key>
 					<integer>2</integer>
 					<key>OrthogonalBarAutomatic</key>
-					<false/>
+					<true/>
 					<key>OrthogonalBarPoint</key>
 					<string>{0, 0}</string>
 					<key>OrthogonalBarPosition</key>
-					<real>68</real>
+					<real>-1</real>
 					<key>Points</key>
 					<array>
 						<string>{226.76939514389139, 171.00000953674345}</string>
-						<string>{401.14503479003901, 171.01492080243116}</string>
+						<string>{523.17108404099702, 170.7780496571425}</string>
 					</array>
 					<key>Style</key>
 					<dict>
@@ -2481,49 +2401,6 @@ USB Hub}</string>
 					<key>Head</key>
 					<dict>
 						<key>ID</key>
-						<integer>52</integer>
-					</dict>
-					<key>ID</key>
-					<integer>111</integer>
-					<key>Layer</key>
-					<integer>2</integer>
-					<key>OrthogonalBarAutomatic</key>
-					<true/>
-					<key>OrthogonalBarPoint</key>
-					<string>{0, 0}</string>
-					<key>OrthogonalBarPosition</key>
-					<real>-1</real>
-					<key>Points</key>
-					<array>
-						<string>{486.08855179061999, 171.01492080243116}</string>
-						<string>{523.17108404099702, 170.7780496571425}</string>
-					</array>
-					<key>Style</key>
-					<dict>
-						<key>stroke</key>
-						<dict>
-							<key>HeadArrow</key>
-							<string>FilledArrow</string>
-							<key>Legacy</key>
-							<true/>
-							<key>LineType</key>
-							<integer>2</integer>
-							<key>TailArrow</key>
-							<string>0</string>
-						</dict>
-					</dict>
-					<key>Tail</key>
-					<dict>
-						<key>ID</key>
-						<integer>108</integer>
-					</dict>
-				</dict>
-				<dict>
-					<key>Class</key>
-					<string>LineGraphic</string>
-					<key>Head</key>
-					<dict>
-						<key>ID</key>
 						<integer>54</integer>
 					</dict>
 					<key>ID</key>
@@ -2634,71 +2511,6 @@ USB Hub}</string>
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\qc
 
 \f0\fs20 \cf0 PoE Injector}</string>
-					</dict>
-				</dict>
-				<dict>
-					<key>Bounds</key>
-					<string>{{401.14503479003906, 157.57866725476271}, {84.94351700058084, 26.872507095336914}}</string>
-					<key>Class</key>
-					<string>ShapedGraphic</string>
-					<key>FontInfo</key>
-					<dict>
-						<key>Font</key>
-						<string>Helvetica</string>
-						<key>Size</key>
-						<real>10</real>
-					</dict>
-					<key>ID</key>
-					<integer>108</integer>
-					<key>Layer</key>
-					<integer>2</integer>
-					<key>Magnets</key>
-					<array>
-						<string>{0, 1}</string>
-						<string>{0, -1}</string>
-						<string>{1, 0}</string>
-						<string>{-1, 0}</string>
-					</array>
-					<key>Shape</key>
-					<string>Rectangle</string>
-					<key>Style</key>
-					<dict>
-						<key>fill</key>
-						<dict>
-							<key>Color</key>
-							<dict>
-								<key>b</key>
-								<string>0.900715</string>
-								<key>g</key>
-								<string>1</string>
-								<key>r</key>
-								<string>0.994303</string>
-							</dict>
-						</dict>
-						<key>shadow</key>
-						<dict>
-							<key>Color</key>
-							<dict>
-								<key>a</key>
-								<string>0.23</string>
-								<key>b</key>
-								<string>0</string>
-								<key>g</key>
-								<string>0</string>
-								<key>r</key>
-								<string>0</string>
-							</dict>
-						</dict>
-					</dict>
-					<key>Text</key>
-					<dict>
-						<key>Text</key>
-						<string>{\rtf1\ansi\ansicpg1252\cocoartf1187\cocoasubrtf390
-\cocoascreenfonts1{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
-{\colortbl;\red255\green255\blue255;}
-\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\qc
-
-\f0\fs20 \cf0 USB Audio}</string>
 					</dict>
 				</dict>
 				<dict>
@@ -6988,7 +6800,7 @@ Strobes &amp; Par Cans}</string>
 			<key>BackgroundGraphic</key>
 			<dict>
 				<key>Bounds</key>
-				<string>{{0, 0}, {775.02001953125, 595.02001953125}}</string>
+				<string>{{0, 0}, {792, 612}}</string>
 				<key>Class</key>
 				<string>SolidGraphic</string>
 				<key>FontInfo</key>
@@ -7229,7 +7041,7 @@ Strobes &amp; Par Cans}</string>
 					<array>
 						<dict>
 							<key>Bounds</key>
-							<string>{{59.99395751953125, 518.04985237121582}, {355, 42}}</string>
+							<string>{{59.99395751953125, 399.17930793762207}, {355, 42}}</string>
 							<key>Class</key>
 							<string>ShapedGraphic</string>
 							<key>FitText</key>
@@ -7279,7 +7091,7 @@ Strobes &amp; Par Cans}</string>
 						</dict>
 						<dict>
 							<key>Bounds</key>
-							<string>{{36.02606201171875, 518.04982757568359}, {15, 22}}</string>
+							<string>{{36.02606201171875, 399.17928314208984}, {15, 22}}</string>
 							<key>Class</key>
 							<string>ShapedGraphic</string>
 							<key>FontInfo</key>
@@ -7348,7 +7160,7 @@ Strobes &amp; Par Cans}</string>
 {\colortbl;\red255\green255\blue255;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\qc
 
-\f0\fs22 \cf1 8}</string>
+\f0\fs22 \cf1 7}</string>
 								<key>VerticalPad</key>
 								<integer>0</integer>
 							</dict>
@@ -7370,7 +7182,7 @@ Strobes &amp; Par Cans}</string>
 					<array>
 						<dict>
 							<key>Bounds</key>
-							<string>{{59.99395751953125, 478.7767505645752}, {355, 28}}</string>
+							<string>{{59.99395751953125, 359.90620613098145}, {355, 28}}</string>
 							<key>Class</key>
 							<string>ShapedGraphic</string>
 							<key>FitText</key>
@@ -7420,7 +7232,7 @@ Strobes &amp; Par Cans}</string>
 						</dict>
 						<dict>
 							<key>Bounds</key>
-							<string>{{36.02606201171875, 478.77672576904297}, {15, 22}}</string>
+							<string>{{36.02606201171875, 359.90618133544922}, {15, 22}}</string>
 							<key>Class</key>
 							<string>ShapedGraphic</string>
 							<key>FontInfo</key>
@@ -7489,7 +7301,7 @@ Strobes &amp; Par Cans}</string>
 {\colortbl;\red255\green255\blue255;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\qc
 
-\f0\fs22 \cf1 7}</string>
+\f0\fs22 \cf1 6}</string>
 								<key>VerticalPad</key>
 								<integer>0</integer>
 							</dict>
@@ -7511,7 +7323,7 @@ Strobes &amp; Par Cans}</string>
 					<array>
 						<dict>
 							<key>Bounds</key>
-							<string>{{59.99395751953125, 412.22217750549316}, {355, 56}}</string>
+							<string>{{59.99395751953125, 293.35163307189941}, {355, 56}}</string>
 							<key>Class</key>
 							<string>ShapedGraphic</string>
 							<key>FitText</key>
@@ -7561,7 +7373,7 @@ Strobes &amp; Par Cans}</string>
 						</dict>
 						<dict>
 							<key>Bounds</key>
-							<string>{{36.02606201171875, 412.22215270996094}, {15, 22}}</string>
+							<string>{{36.02606201171875, 293.35160827636719}, {15, 22}}</string>
 							<key>Class</key>
 							<string>ShapedGraphic</string>
 							<key>FontInfo</key>
@@ -7630,7 +7442,7 @@ Strobes &amp; Par Cans}</string>
 {\colortbl;\red255\green255\blue255;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\qc
 
-\f0\fs22 \cf1 6}</string>
+\f0\fs22 \cf1 5}</string>
 								<key>VerticalPad</key>
 								<integer>0</integer>
 							</dict>
@@ -7652,7 +7464,7 @@ Strobes &amp; Par Cans}</string>
 					<array>
 						<dict>
 							<key>Bounds</key>
-							<string>{{59.99395751953125, 359.66760444641113}, {355, 42}}</string>
+							<string>{{59.99395751953125, 240.79706001281738}, {355, 42}}</string>
 							<key>Class</key>
 							<string>ShapedGraphic</string>
 							<key>FitText</key>
@@ -7702,7 +7514,7 @@ Strobes &amp; Par Cans}</string>
 						</dict>
 						<dict>
 							<key>Bounds</key>
-							<string>{{36.02606201171875, 359.66757965087891}, {15, 22}}</string>
+							<string>{{36.02606201171875, 240.79703521728516}, {15, 22}}</string>
 							<key>Class</key>
 							<string>ShapedGraphic</string>
 							<key>FontInfo</key>
@@ -7771,7 +7583,7 @@ Strobes &amp; Par Cans}</string>
 {\colortbl;\red255\green255\blue255;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\qc
 
-\f0\fs22 \cf1 5}</string>
+\f0\fs22 \cf1 4}</string>
 								<key>VerticalPad</key>
 								<integer>0</integer>
 							</dict>
@@ -7793,7 +7605,7 @@ Strobes &amp; Par Cans}</string>
 					<array>
 						<dict>
 							<key>Bounds</key>
-							<string>{{59.99395751953125, 307.1130313873291}, {355, 42}}</string>
+							<string>{{59.99395751953125, 188.24248695373535}, {355, 42}}</string>
 							<key>Class</key>
 							<string>ShapedGraphic</string>
 							<key>FitText</key>
@@ -7843,7 +7655,7 @@ Strobes &amp; Par Cans}</string>
 						</dict>
 						<dict>
 							<key>Bounds</key>
-							<string>{{36.02606201171875, 307.11300659179688}, {15, 22}}</string>
+							<string>{{36.02606201171875, 188.24246215820312}, {15, 22}}</string>
 							<key>Class</key>
 							<string>ShapedGraphic</string>
 							<key>FontInfo</key>
@@ -7912,7 +7724,7 @@ Strobes &amp; Par Cans}</string>
 {\colortbl;\red255\green255\blue255;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\qc
 
-\f0\fs22 \cf1 4}</string>
+\f0\fs22 \cf1 3}</string>
 								<key>VerticalPad</key>
 								<integer>0</integer>
 							</dict>
@@ -7934,7 +7746,7 @@ Strobes &amp; Par Cans}</string>
 					<array>
 						<dict>
 							<key>Bounds</key>
-							<string>{{59.99395751953125, 184.55845832824707}, {355, 112}}</string>
+							<string>{{59.99395751953125, 145.97709846496582}, {355, 28}}</string>
 							<key>Class</key>
 							<string>ShapedGraphic</string>
 							<key>FitText</key>
@@ -7975,9 +7787,7 @@ Strobes &amp; Par Cans}</string>
 {\colortbl;\red255\green255\blue255;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
 
-\f0\fs24 \cf0 The Pi only has two built-in USB ports. One of these is connected directly to the USB audio interface, to avoid bottlenecks due to Isochronous USB streaming via hubs. The other two peripherals are less demanding of the USB protocol, so they connect via a hub.\
-\
-The hub is externally powered, so that we can route less power through the Raspberry Pi's 750mA main fuse.}</string>
+\f0\fs24 \cf0 The hub is externally powered, so that we can route less power through the Raspberry Pi's 750mA main fuse.}</string>
 								<key>VerticalPad</key>
 								<integer>0</integer>
 							</dict>
@@ -7986,7 +7796,7 @@ The hub is externally powered, so that we can route less power through the Raspb
 						</dict>
 						<dict>
 							<key>Bounds</key>
-							<string>{{36.02606201171875, 184.55843353271484}, {15, 22}}</string>
+							<string>{{36.02606201171875, 145.97707366943359}, {15, 22}}</string>
 							<key>Class</key>
 							<string>ShapedGraphic</string>
 							<key>FontInfo</key>
@@ -8055,147 +7865,6 @@ The hub is externally powered, so that we can route less power through the Raspb
 {\colortbl;\red255\green255\blue255;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\qc
 
-\f0\fs22 \cf1 3}</string>
-								<key>VerticalPad</key>
-								<integer>0</integer>
-							</dict>
-							<key>TextPlacement</key>
-							<integer>2</integer>
-							<key>VFlip</key>
-							<string>YES</string>
-						</dict>
-					</array>
-					<key>ID</key>
-					<integer>216</integer>
-					<key>Layer</key>
-					<integer>1</integer>
-				</dict>
-				<dict>
-					<key>Class</key>
-					<string>Group</string>
-					<key>Graphics</key>
-					<array>
-						<dict>
-							<key>Bounds</key>
-							<string>{{59.99395751953125, 144.31032752990723}, {355, 28}}</string>
-							<key>Class</key>
-							<string>ShapedGraphic</string>
-							<key>FitText</key>
-							<string>Vertical</string>
-							<key>Flow</key>
-							<string>Resize</string>
-							<key>ID</key>
-							<integer>214</integer>
-							<key>Shape</key>
-							<string>Rectangle</string>
-							<key>Style</key>
-							<dict>
-								<key>fill</key>
-								<dict>
-									<key>Draws</key>
-									<string>NO</string>
-								</dict>
-								<key>shadow</key>
-								<dict>
-									<key>Draws</key>
-									<string>NO</string>
-								</dict>
-								<key>stroke</key>
-								<dict>
-									<key>Draws</key>
-									<string>NO</string>
-								</dict>
-							</dict>
-							<key>Text</key>
-							<dict>
-								<key>Align</key>
-								<integer>0</integer>
-								<key>Pad</key>
-								<integer>0</integer>
-								<key>Text</key>
-								<string>{\rtf1\ansi\ansicpg1252\cocoartf1187\cocoasubrtf390
-\cocoascreenfonts1{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
-{\colortbl;\red255\green255\blue255;}
-\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
-
-\f0\fs24 \cf0 An external USB sound adapter provides higher quality audio than the Raspberry Pi's built-in D/A converter.}</string>
-								<key>VerticalPad</key>
-								<integer>0</integer>
-							</dict>
-							<key>TextPlacement</key>
-							<integer>0</integer>
-						</dict>
-						<dict>
-							<key>Bounds</key>
-							<string>{{36.02606201171875, 144.310302734375}, {15, 22}}</string>
-							<key>Class</key>
-							<string>ShapedGraphic</string>
-							<key>FontInfo</key>
-							<dict>
-								<key>Color</key>
-								<dict>
-									<key>b</key>
-									<string>0.999991</string>
-									<key>g</key>
-									<string>0.999974</string>
-									<key>r</key>
-									<string>1</string>
-								</dict>
-								<key>Font</key>
-								<string>Helvetica</string>
-								<key>Size</key>
-								<real>11</real>
-							</dict>
-							<key>ID</key>
-							<integer>215</integer>
-							<key>Magnets</key>
-							<array>
-								<string>{0, 1}</string>
-								<string>{0, -1}</string>
-								<string>{1, 0}</string>
-								<string>{-1, 0}</string>
-							</array>
-							<key>Shape</key>
-							<string>House</string>
-							<key>Style</key>
-							<dict>
-								<key>fill</key>
-								<dict>
-									<key>Color</key>
-									<dict>
-										<key>b</key>
-										<string>0.0283155</string>
-										<key>g</key>
-										<string>0.00704085</string>
-										<key>r</key>
-										<string>0.65338</string>
-									</dict>
-								</dict>
-								<key>shadow</key>
-								<dict>
-									<key>Color</key>
-									<dict>
-										<key>a</key>
-										<string>0.46</string>
-										<key>b</key>
-										<string>0</string>
-										<key>g</key>
-										<string>0</string>
-										<key>r</key>
-										<string>0</string>
-									</dict>
-									<key>ShadowVector</key>
-									<string>{0, 0}</string>
-								</dict>
-							</dict>
-							<key>Text</key>
-							<dict>
-								<key>Text</key>
-								<string>{\rtf1\ansi\ansicpg1252\cocoartf1187\cocoasubrtf390
-\cocoascreenfonts1{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
-{\colortbl;\red255\green255\blue255;}
-\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\qc
-
 \f0\fs22 \cf1 2}</string>
 								<key>VerticalPad</key>
 								<integer>0</integer>
@@ -8207,7 +7876,7 @@ The hub is externally powered, so that we can route less power through the Raspb
 						</dict>
 					</array>
 					<key>ID</key>
-					<integer>213</integer>
+					<integer>216</integer>
 					<key>Layer</key>
 					<integer>1</integer>
 				</dict>
@@ -9179,7 +8848,7 @@ The hub is externally powered, so that we can route less power through the Raspb
 	<key>SmartDistanceGuidesActive</key>
 	<string>YES</string>
 	<key>UseEntirePage</key>
-	<true/>
+	<false/>
 	<key>WindowInfo</key>
 	<dict>
 		<key>CurrentSheet</key>
@@ -9196,7 +8865,7 @@ The hub is externally powered, so that we can route less power through the Raspb
 			</dict>
 		</array>
 		<key>Frame</key>
-		<string>{{311, 81}, {1026, 787}}</string>
+		<string>{{124, 80}, {1026, 787}}</string>
 		<key>ListView</key>
 		<true/>
 		<key>OutlineWidth</key>
@@ -9210,7 +8879,7 @@ The hub is externally powered, so that we can route less power through the Raspb
 		<key>SidebarWidth</key>
 		<integer>145</integer>
 		<key>VisibleRegion</key>
-		<string>{{-45, -26}, {866, 648}}</string>
+		<string>{{-37, -18}, {866, 648}}</string>
 		<key>Zoom</key>
 		<real>1</real>
 		<key>ZoomValues</key>
